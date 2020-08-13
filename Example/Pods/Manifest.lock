@@ -1,0 +1,16 @@
+PODS:
+  - PersionInfoKit (0.1.0)
+
+DEPENDENCIES:
+  - PersionInfoKit (from `../`)
+
+EXTERNAL SOURCES:
+  PersionInfoKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PersionInfoKit: 682d6f68d8240ea5d5895d46af3e44c5a088b32d
+
+PODFILE CHECKSUM: 9f11e6b0c5d4b2166b6d5d6037b9a61abbe4db4e
+
+COCOAPODS: 1.8.4

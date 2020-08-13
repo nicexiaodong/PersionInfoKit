@@ -1,0 +1,6 @@
+framework module Pods_PersionInfoKit_Example {
+  umbrella header "Pods-PersionInfoKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
