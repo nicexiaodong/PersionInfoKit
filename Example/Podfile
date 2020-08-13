@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PersionInfoKit_Example' do
+  pod 'PersionInfoKit', :path => '../'
+
+  target 'PersionInfoKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
